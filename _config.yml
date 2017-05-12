@@ -38,7 +38,7 @@ exclude:
 
 # Resume sections (comment to hide)
 resume_section_experience_visible:  true
-resume_section_education_visible:   true
+resume_section_projects_visible:    false
 resume_section_skills_visible:      true
 resume_section_links_visible:       true
 resume_section_volunteer_visible:   true
