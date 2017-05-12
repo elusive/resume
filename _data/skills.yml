@@ -28,3 +28,6 @@
 
 - skill: Source Control
   description:  Multiple years using GIT, SVN and Surround SCM source control systems.  Comfortable with both distributed and centralized systems.  Most recent experience is with GIT.
+
+- skill: Additional
+  description:  I also have experience, at least 1 projects worth, with the following technologies <ul class="resume-item-list"><li>Salesforce API</li><li>OKTA authentication</li><li>Golang</li><li>Bash scripting</li><li>Docker</li></ul>
