@@ -6,13 +6,13 @@
   description:  Primary area of expertise.  Expert level test scores with C# and .NET Framework (all versions).  Primary language for my career.
 
 - skill: Web Development
-  description: Over 10 years of experience developing web-based applications using ASP.NET, ASP.NET MVC, Nodejs, and others.  Experience with standards-based developement using HTML5, CSS, Sass.  Experience with 508 compliance and developing accessible content.  JQuery experience and plugin authoring.
+  description: Over 10 years of experience developing web-based applications using ASP.NET, ASP.NET MVC, Nodejs, and others.  Experience with standards-based developement using HTML5, CSS, Sass.  Experience with 508 compliance and developing accessible content.  JQuery experience and plugin authoring.  Recent experience with Angular4-5 and NodeJS, Node Webkit and Material Design.
 
 - skill: Database Development
   description: SQL Server - 12+ years with TSQL, Oracle 3+ years with PL/SQL, MongoDB, Postgres, MySql 2+ years each.  Almost every project I have ever worked on had a DB component.
 
 - skill: WPF/XAML
-  description: Total of 5 years in Windows Presentation Foundation using the Prism library for most projects.
+  description: Total of 7 years in Windows Presentation Foundation using the Prism library for most projects.
 
 - skill: Software Testing
   description: Experienced with and strong advocate for unit testing with NUnit, MSTest, and Moq.  Believe in writing testable code the first time.
