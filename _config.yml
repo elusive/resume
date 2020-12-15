@@ -47,8 +47,8 @@ resume_section_volunteer_visible:   true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/elusive"
-  resume_twitter_url:           "http://twitter.com/johncgilliland"
+  resume_twitter_url:           "https://twitter.com/johncgilliland"
   resume_linkedin_url:          "https://www.linkedin.com/in/johncgilliland"
-  resume_instagram_url:         "https://www.instagram.com/indybushcraft"
-  resume_website_url:           "http://johngilliland.net"
+  resume_instagram_url:         "https://www.instagram.com/johncgilliland"
+  resume_website_url:           "https://elusive.github.io"
 resume_print_links:              true
